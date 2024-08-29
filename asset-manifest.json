@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dinar-agriculture-website/static/css/main.e1db5a18.css",
+    "main.js": "/dinar-agriculture-website/static/js/main.e6b527e3.js",
+    "static/media/intro-background.jpg": "/dinar-agriculture-website/static/media/intro-background.1d195ca6a2c4b488a0c3.jpg",
+    "index.html": "/dinar-agriculture-website/index.html",
+    "main.e1db5a18.css.map": "/dinar-agriculture-website/static/css/main.e1db5a18.css.map",
+    "main.e6b527e3.js.map": "/dinar-agriculture-website/static/js/main.e6b527e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1db5a18.css",
+    "static/js/main.e6b527e3.js"
+  ]
+}
